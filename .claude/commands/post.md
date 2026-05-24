@@ -6,7 +6,7 @@ The user's input (idea number or topic) is: $ARGUMENTS
 
 1. Read `instructions.md` in full before writing a single word.
 2. Read `store.md` and find the referenced idea.
-3. If input is fewer than 5 words and doesn't match a stored idea, ask ONE question: "what's the core tension or insight you want this post to land on?" Otherwise proceed.
+3. Read `glossary.md` — check if any terms or references are relevant to this post. if they are, use them naturally. don't force them in.
 
 ---
 

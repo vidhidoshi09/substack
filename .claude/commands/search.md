@@ -4,7 +4,7 @@ The search query is: $ARGUMENTS
 
 ## What to do
 
-1. Read `store.md`.
+1. Read `store.md` and `glossary.md`.
 2. Parse the query: keyword, date, topic, or combination.
 3. Search across all fields: idea number, time, day heading, raw thought, seed angle.
 4. Return only matching entries in their original format, grouped under their original day headings.
