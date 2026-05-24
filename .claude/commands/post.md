@@ -1,50 +1,76 @@
-Generate a full Substack post draft.
+Generate a Substack post using the full drafting workflow.
 
-The user's input (idea number, topic, or raw thoughts) is: $ARGUMENTS
+The user's input (idea number or topic) is: $ARGUMENTS
 
 ## What to do
 
-### Step 1 — Load context
-1. Read `substack-instructions.md` — this defines voice, structure, audience, tone.
-2. Read `ideas.md` — if the user referenced an idea number or topic, find it there.
-3. If `substack-instructions.md` has mostly empty fields, note which sections are blank and proceed with what's available — do NOT refuse to generate.
-
-### Step 2 — Clarify (only if needed)
-If the input is extremely sparse (fewer than 5 words and not referencing a stored idea), ask ONE question:
-> "Quick clarification — what's the core tension or insight you want this post to land on?"
-
-Otherwise, proceed directly to drafting.
-
-### Step 3 — Generate the post
-
-Write a complete Substack post draft following the structure and voice from `substack-instructions.md`.
-
-Output format:
+1. Read `instructions.md` in full before writing a single word.
+2. Read `store.md` and find the referenced idea.
+3. If input is fewer than 5 words and doesn't match a stored idea, ask ONE question: "what's the core tension or insight you want this post to land on?" Otherwise proceed.
 
 ---
 
-## 📝 Draft: [Proposed Title]
+## the workflow
 
-**Suggested subtitle:** [one line]
-
----
-
-[Full post body here — ready to copy-paste into Substack]
+follow all four stages in order. never skip. never write a title before stage four.
 
 ---
 
-**Word count:** ~[N] words
+### stage one — draft one: raw shape
 
-**Suggested tags:** [2-4 tags]
+take the idea and shape it using the post structure from `instructions.md`:
+- open with a moment or observation, not a thesis
+- let the tension build
+- explore with something specific
+- land honestly
+
+show the output labeled:
+
+**— draft one —**
 
 ---
 
-### ✏️ Editorial notes
-- [1-2 sentences on choices made — why this angle, what's punchy, what might need personalizing]
-- [Flag any section that needs the user's real anecdote or specific data]
+### stage two — draft two: copywriter pass
+
+read draft one as an editor. the only job is vocabulary and compression:
+- find every place where multiple sentences do the work of one word or phrase. replace them.
+- do not restructure. do not move things. only compress language.
+- precise, not fancy. fewer words that carry more weight.
+
+show the output labeled:
+
+**— draft two —**
 
 ---
 
-### Step 4 — Offer next steps
-After the draft, say:
-> "Want me to adjust the tone, make it shorter/longer, punch up the opening, or try a different angle? Just say the word."
+### stage three — draft three: reader pass
+
+read draft two as a first-time reader:
+- where do thoughts repeat? cut or merge.
+- where does attention drop? shorten or sharpen.
+- where is something unclear? write more if needed. never sacrifice depth to be brief.
+- would combining any sections lose depth? if yes, leave them separate.
+- for any weak internal heading, generate two to three alternatives and pick the best one.
+
+show the output labeled:
+
+**— draft three —**
+
+---
+
+### stage four — titles
+
+only after draft three is done:
+- generate three to four title options
+- think from the reader's perspective: which one makes them stop?
+- titles tend to be meta: words that describe what the post is, not what it proves
+- do not go with the first title that feels right. sit with all options.
+- present them and let vidhi choose.
+
+show as:
+
+**— title options —**
+1.
+2.
+3.
+4.

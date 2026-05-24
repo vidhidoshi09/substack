@@ -2,12 +2,10 @@ Show the user their full ideas bank.
 
 ## What to do
 
-1. Read `ideas.md`.
-2. Display all stored ideas in a clean, scannable format:
-   - Show idea number, date, raw thought, and seed angle for each
-   - If there are more than 5 ideas, group them newest-first
-3. After the list, show this prompt:
-   > "Which idea do you want to develop? Type `/post <number or topic>` to generate a draft, or `/store <new thought>` to add another."
+1. Read `store.md`.
+2. Display all stored ideas grouped by day, newest first. For each idea show: number, time, raw thought, seed angle.
+3. After the list:
+   > "which idea do you want to develop? type `/post <number>` to draft it, or `/store <new thought>` to add another."
 
-If the ideas bank is empty, say:
-> "No ideas yet! Drop your first one with `/store <your thought>`."
+If the bank is empty:
+   > "nothing stored yet. drop your first idea with `/store <your thought>`."
