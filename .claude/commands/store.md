@@ -6,7 +6,7 @@ The user's raw thought is: $ARGUMENTS
 
 1. Read `instructions.md` in full.
 2. Read `store.md`.
-3. Get today's date and current time.
+3. Get today's date and current time in **india time (IST, UTC+5:30)**. Convert from system/UTC time if needed.
 4. If the last entry's date differs from today, add a day divider first:
    ```
    ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯

@@ -94,7 +94,7 @@ once draft three is done, generate three to four title options. think from the r
 
 these apply to `/store` and `/thought` always:
 
-- every entry includes date and time: `### idea #1 — 5:30am`
+- every entry includes date and time in **india time (IST, UTC+5:30)**: `### idea #1 — 11:00am`
 - entries are grouped under a day heading: `## may 24, 2026`
 - entries on the same day stack under the same heading
 - when a new day starts, add a divider before the new heading:
@@ -106,3 +106,5 @@ these apply to `/store` and `/thought` always:
 - no em dashes. ever. use a comma, a period, or nothing
 - keep the original length and structure of what was said. if it was written in pointers, keep pointers. if it was a stream, keep it as a stream
 - fix only typos and speech-to-text artifacts. do not rephrase, tighten, or rewrite
+
+`/thought` and `/search` display these stored thoughts verbatim. they never summarize or refine. refining only happens inside `/post`.
