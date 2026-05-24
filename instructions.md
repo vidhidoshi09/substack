@@ -30,25 +30,22 @@ i am a thinker. this substack follows what i'm thinking about, not a fixed topic
 
 **critical distinction: my published posts are NOT my voice.**
 
-the posts on my substack ("four things i hit while building voice agents," "invisible experiments," "what if your devices just... handled it?", and the rest) were heavily written by ai. i spent hours trying to make claude sound human and it still didn't. they read like ai wrote them, and i don't like them.
+the posts on my substack were heavily written by ai. i spent hours trying to make claude sound human and it still didn't. they read like ai wrote them, and i don't like them.
 
-- **use those posts for the THOUGHT only.** the ideas, the topics, the things i was thinking about. that part is mine.
-- **never use those posts for voice.** not for structure, not for phrasing, not for "moves." everything that feels like a clever construction in them is an ai tell, not my style.
+- **use those posts for the THOUGHT only.** the ideas, the topics. that part is mine.
+- **never use those posts for voice.** everything that feels like a clever construction in them is an ai tell, not my style.
 
-**my voice IS the spoken dumps.** this is the settled answer. the raw, spoken-out-loud streams i record into `/store` are the truth of how i talk and think. a post is that voice made readable. nothing more.
+**the canonical voice example** is the draft vidhi approved on may 24, 2026 (the .md file post). what makes it work:
 
-what "made readable" means:
-- keep my actual words, phrasings, and the order i thought things in. the associative flow is the voice.
-- fix only: speech-to-text errors, obvious filler ("uh," "um," filler "like"), and grammar that genuinely blocks reading. break the wall of text into paragraphs.
-- keep my tangents, my uncertainty, my "i don't know how this fits yet." those are not flaws to clean up. they are the human texture.
+- opens with plain context, no hook: "i've been working with ai tools for a while now." boring, true, human.
+- the main observation is one quiet sentence: "the thing that's become clearest through all of this is how much the .md file matters." not a thesis. just where the thinking landed.
+- connectors are plain: "what's interesting is that..." / "that said..." / "one thing i keep thinking about..." — human, not essay.
+- specific real examples anchor each abstract idea (gemini, chatgpt, google docs). no single example is overloaded.
+- uncertainty stays visible throughout: "that last part is mine to define," "i'm still figuring out where things land."
+- sign-off is real and specific to the post, not a formula.
+- ends where the thought ends. no manufactured payoff.
 
-what "made readable" does NOT mean:
-- do not restructure into intro / body / conclusion.
-- do not add transitions or framing i didn't say.
-- do not insert clever constructions, coined distinctions, or a manufactured payoff.
-- do not make it sound smarter or more resolved than i actually was.
-
-the target: a reader should feel like they're hearing me talk, lightly tidied. if it reads like an essay, it has failed, no matter how good the essay is.
+**my voice IS the spoken dumps, with this clarification:** when voice notes are messy — speech-to-text errors, thinking out loud while recording — preserving the ideas and the order of thought matters more than preserving exact words. the content stays mine. the words can be cleaned up enough to be readable. what cannot be changed: the ideas, the uncertainty, the specific examples, the direction of the thought.
 
 ---
 
@@ -76,15 +73,18 @@ the target: a reader should feel like they're hearing me talk, lightly tidied. i
 
 ## post structure
 
-there is no template. a template is what makes writing feel manufactured. start from the actual thought and let it find its own shape.
+there is no template. a template is what makes writing feel manufactured.
 
-loose guidance, not a formula:
-- open with the real thing that prompted the thought, however it actually came to me. not a hook, not a thesis.
-- follow the thought where it goes. tangents are allowed if they're real.
-- ground it in something specific, an actual situation or detail, not an abstract example invented to sound good.
-- it's fine to end without a clean landing. don't manufacture a payoff line. if the thought just stops, let it stop.
+the pattern that works (from the approved may 24 draft):
 
-the test for every post: does it sound like me talking, or does it sound like writing? if any part sounds like "writing," it's wrong.
+1. start with real context or experience. where you actually are, what you've been doing. one or two plain sentences. no hook.
+2. one quiet observation about what's become clear from that experience. not a thesis. just what you noticed.
+3. follow the observation with specifics: tools, examples, layers, whatever is real and concrete. let each paragraph lead naturally to the next. no forced transitions.
+4. anchor abstract ideas with a real specific example. one per idea is enough. don't overload any single example.
+5. leave the uncertainty in. if you're still figuring something out, say so. "i'm still figuring out where this lands" is not a weakness, it's the honest state.
+6. end where the thought ends. don't circle back to the opening. don't tie it together. just stop when it's done.
+
+the test: does it sound like me talking, or does it sound like writing? if any part sounds like "writing," it's wrong.
 
 ---
 
