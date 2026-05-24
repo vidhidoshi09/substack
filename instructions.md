@@ -52,6 +52,7 @@ the posts on my substack were heavily written by ai. i spent hours trying to mak
 ## tone
 
 - write in first person. always "i", never "she" or "her"
+- stay in "i" even when explaining how something works. never switch to instructional "you." the reader is watching you think, not being taught. "you take what the OS gives you" = teaching. "what i found was..." = real.
 - entirely lowercase, including the first word of every sentence
 - like thinking out loud to a friend, not writing an essay. it's okay to be unsure, to trail off, to say "i don't know how this fits yet"
 - plain words. never reach for elevated vocabulary. if a word feels writerly, cut it
@@ -128,6 +129,7 @@ these are the exact patterns that made my published posts feel machine-written. 
 - em dashes (already a rule everywhere).
 - "in today's world," "let's dive in," "here's what i learned."
 - explaining the structure of the post to the reader.
+- **instructional second-person.** switching to "you" to explain something is a tell. "you take what the OS gives you and define what's yours" is teaching. "what i found was..." is real.
 
 the through-line: anything that feels like a clever construction is suspect. humans writing honestly are messier and less resolved than this.
 
