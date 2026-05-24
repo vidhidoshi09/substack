@@ -1,76 +1,74 @@
-# My Substack Writing Instructions
+# substack instructions
 
-> **How to use this file:** Fill in each section below. These instructions are loaded every time you run `/post` — they shape how your drafts are written. Be as specific as you like.
-
----
-
-## About Me & My Publication
-
-- **Publication name:** <!-- e.g. "The Curious Builder" -->
-- **Tagline:** <!-- one sentence that describes the newsletter -->
-- **My background:** <!-- who I am, what I do -->
-- **Why I write:** <!-- what I'm trying to give readers -->
+this file defines how every post gets written. claude should read this before generating any draft.
 
 ---
 
-## My Audience
+## who is writing this
 
-- **Who reads me:** <!-- e.g. "early-stage founders, curious generalists, indie hackers" -->
-- **What they care about:** <!-- their goals, frustrations, questions -->
-- **What I want them to feel** after reading a post: <!-- e.g. "informed, slightly provoked, motivated to act" -->
+i am a thinker. this substack follows what i'm thinking about, not a fixed topic or role. some posts are about tech, software or hardware. some are about AI, design, or product decisions. occasionally something personal, when i feel like it. the common thread is that the perspective is mine and the thinking is real.
 
 ---
 
-## Voice & Tone
+## tone
 
-- **Overall vibe:** <!-- e.g. "conversational but sharp", "warm and nerdy", "blunt + honest" -->
-- **Things I always do:** <!-- e.g. "use short paragraphs", "ask rhetorical questions", "lead with a story" -->
-- **Things I never do:** <!-- e.g. "no jargon", "no listicles with 10+ items", "never use corporate buzzwords" -->
-- **Punctuation/style quirks:** <!-- e.g. "em-dashes over commas", "sentence fragments are fine" -->
-
----
-
-## Post Structure I Like
-
-<!-- Describe a rough structure you prefer. Example: -->
-<!--
-1. Open with a concrete story or surprising observation (2-3 paragraphs)
-2. Surface the tension / "why does this matter" (1-2 paragraphs)
-3. Core insight or argument (3-5 paragraphs)
-4. Practical takeaway or provocation
-5. Close with a single punchy line or question
--->
-
-1. 
-2. 
-3. 
-4. 
-5. 
+- write in first person. always "i", never "she" or "her"
+- entirely lowercase, including the first word of every sentence
+- conversational but not casual. like thinking out loud with someone who gets it
+- short sentences. varied rhythm. let thoughts breathe
+- confident without announcing it. likable without performing it
+- dry humor is welcome, rarely. one quiet line that lands without setup
 
 ---
 
-## Length
+## format
 
-- **Typical post length:** <!-- e.g. "800–1200 words", "whatever it takes, no padding" -->
-- **Subheadings:** <!-- e.g. "yes, every 300 words" / "rarely, I prefer flow" -->
-
----
-
-## Things I Reference Often
-
-<!-- Topics, thinkers, books, frameworks I draw on regularly -->
-- 
+- no title case anywhere, including headings
+- headings are lowercase. use them only when the post genuinely shifts direction, and that shift deserves its own space. if a tangent grows big enough to stand alone, give it a heading
+- dialogue or quoted speech goes on its own line, not inline
+- short paragraphs. three to four sentences max before a break
+- no bullet points unless the content is genuinely list-like
 
 ---
 
-## What Makes a Post Bad (for me)
+## structure
 
-<!-- Help the AI avoid your pet peeves -->
-- 
+1. open with a moment, an observation, or something that happened. not a thesis
+2. let the question or tension build naturally from there
+3. explore it with something specific: a product, a story, an example, an analogy
+4. land somewhere honest. just where the thought ends up
 
 ---
 
-## Example Posts I Love
+## ending every post
 
-<!-- Paste links or titles of posts — yours or others — that capture the energy you want -->
-- 
+close with a short note that feels like me signing off. something like:
+
+"i'm vidhi, a product designer thinking about [loosely what the post was about]. if you've run into something similar, i'd love to hear it."
+
+keep it warm and specific to the post. not generic. and always end with an invitation for the reader to share their thoughts.
+
+---
+
+## substack elements to include
+
+- **subscribe callout**: place one mid-post, after the first major idea lands. keep it one line, lowercase, casual. something like: "if you want more of this, subscribe. i write when i have something worth saying."
+- **section breaks**: use a simple "---" when transitioning between distinct ideas within a post
+- **end note**: a brief, warm sign-off that grounds who i am and invites a response (see above)
+
+---
+
+## avoid
+
+- "in today's world" or any variant as an opener
+- "let's dive in" or "here's what i learned"
+- conclusions that restate what was already said
+- explaining the structure of the post to the reader
+
+---
+
+## post types
+
+- `/store [idea]` — save a rough idea to store.md. confirm with its index number. do not generate a post
+- `/thought` — list everything saved in store.md, numbered
+- `/post [number or topic]` — generate a full draft using these instructions
