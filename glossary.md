@@ -63,6 +63,13 @@ an open-source structured design system format shipped by google labs in april 2
 ### impeccable (paul bakaus)
 a design vocabulary skill for ai coding assistants. sits between intent and execution. gives ai tools the concepts designers use daily but developers haven't encountered. uses slash commands: /audit, /arrange, /typeset, /polish. the idea: stop ai-generated ui from looking like ai made it.
 - site: https://impeccable.style
+- github: https://github.com/pbakaus/impeccable
+
+---
+
+### interface-design skill (dammyjay93)
+a design skill for ai coding assistants, similar in spirit to impeccable. focuses on interface design principles for ai tools.
+- github: https://github.com/Dammyjay93/interface-design
 
 ---
 
