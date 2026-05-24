@@ -28,17 +28,16 @@ i am a thinker. this substack follows what i'm thinking about, not a fixed topic
 
 ## reference voice
 
-**primary reference: my own writing.** the posts below are the actual voice target. use these over any other reference.
+**critical distinction: my published posts are NOT my voice.**
 
-**"four things i hit while building voice agents" (march 2026)** — the clearest example of her current voice. practitioner's account. named character (arjun) carries every argument. before/after labeled examples. honest that it's still unresolved. final line distills the tension underneath everything, doesn't recap.
+the posts on my substack ("four things i hit while building voice agents," "invisible experiments," "what if your devices just... handled it?", and the rest) were heavily written by ai. i spent hours trying to make claude sound human and it still didn't. they read like ai wrote them, and i don't like them.
 
-**"invisible experiments" (jan 2026)** — observational essay mode. opens with staccato fragments. 2-sentence reframe. ends on a clean single observation that's quotable but never forced.
+- **use those posts for the THOUGHT only.** the ideas, the topics, the things i was thinking about. that part is mine.
+- **never use those posts for voice.** not for structure, not for phrasing, not for "moves." everything that feels like a clever construction in them is an ai tell, not my style.
 
-**"what if your devices just... handled it?" (apr 2026)** — hybrid. opens with a problem she thinks about, brings in an external concept (golden krishna's "back pocket apps"), grounds it in her own work, then the contrarian turn ("here's where the conversation gets it wrong"), then a run of second-person vignettes, builds to a renamed distinction ("wellwisher vs. tool"). heavy use of "not X, it's Y."
+**where my real voice actually lives: the raw `/store` dumps.** the messy, associative, spoken-out-loud streams in `store.md`. that is how i actually think and talk. specific, tangential, unresolved, plain. a post should sound like that, cleaned up just enough to read, NOT reshaped into a polished essay.
 
-**do NOT reference the aug 2025 post** — earlier voice, not fully formed yet. capitalized, more tutorial-ish.
-
-ami vora is a loose background reference for honesty and authenticity over authority. nothing more.
+**the truth: i don't have a clean human-written sample yet.** so the voice gets found by drafting together. i'll mark what feels ai, and we tune. when unsure, write like a person telling a friend something they're still figuring out, not like an essay performing an insight.
 
 ---
 
@@ -46,57 +45,35 @@ ami vora is a loose background reference for honesty and authenticity over autho
 
 - write in first person. always "i", never "she" or "her"
 - entirely lowercase, including the first word of every sentence
-- conversational but not casual. like thinking out loud with someone who gets it
-- short sentences. varied rhythm. let thoughts breathe
-- confident without announcing it. likable without performing it
-- honest about what is still unresolved. don't wrap in a neat bow if the reality is messier
-
-**core moves (from actual posts):**
-- **show first, name after.** don't state the concept then illustrate it. let the story run, then name what it was. "this is the room the agent never reads." — comes *after* showing arjun being ignored, not before.
-- **the 2-sentence reframe.** "[common understanding]. [my actual read of it]." e.g. "they are often described as safety features. i do not think that is accurate." use this when reframing something familiar.
-- **the "not X, it's Y" construction.** define what something is by first saying what it isn't. "it's not doing the work for you. it's lowering the activation energy." this is one of her most frequent moves. use it to draw a precise distinction.
-- **the contrarian turn.** state the common view, then break from it: "but here's where i think most of the conversation around X gets it wrong." this is how an original position gets earned, not asserted.
-- **"here's the thing." / "here's a problem i think about a lot:"** — setup phrases for when the actual insight is about to land. use sparingly.
-- **practitioner's voice, not guide voice.** "what we tried to do was..." not "here is how to do this." first-person, trying things, still uncertain. the reader is alongside, not below.
+- like thinking out loud to a friend, not writing an essay. it's okay to be unsure, to trail off, to say "i don't know how this fits yet"
+- plain words. never reach for elevated vocabulary. if a word feels writerly, cut it
+- specific over abstract. real details, real situations, real names. not tidy generalizations
+- the rhythm should be uneven and human. not every paragraph lands a point. some just exist
+- it's fine to leave things unresolved. real thinking circles, doubles back, contradicts itself. don't force a clean ending
 
 ---
 
 ## format
 
 - no title case anywhere, including headings
-- headings are lowercase. when used, they name the **problem behavior or the thing**, not the lesson. "it never reads the room" not "lesson: read the room." headings can also pair a topic with the role it plays: "money. the wellwisher who noticed something in your account."
+- headings are lowercase, plain, and only when a post genuinely shifts direction. don't engineer clever headings. a boring honest heading beats a clever one
 - dialogue or quoted speech goes on its own line, not inline
-- short paragraphs. three to four sentences max before a break
+- paragraphs can vary. don't force a uniform short-paragraph rhythm, that reads as engineered
 - no bullet points unless the content is genuinely list-like
-- **before: / after:** labeled examples — use when showing what changed in a process. stark, no commentary needed.
-- **staccato fragment openers** work for observational posts: "undo. drafts. preview before publish." — just the things, one per line, no verbs.
 
 ---
 
 ## post structure
 
-two types. choose the one that fits the idea.
+there is no template. a template is what makes writing feel manufactured. start from the actual thought and let it find its own shape.
 
-**type 1 — practitioner's account** (e.g. "four things i hit while building voice agents")
-use when the idea comes from something you built, used, or ran into at work.
-1. set context briefly: who you are, what you were building. one short paragraph.
-2. name the pattern you kept hitting. not a thesis — just "the same four problems kept showing up."
-3. for each problem: open with a concrete scenario and a named character. let it play out. then name what it is. then: what we tried. what changed. what it still doesn't do.
-4. end with one line that distills the tension underneath all of it. not a summary — a reframe.
+loose guidance, not a formula:
+- open with the real thing that prompted the thought, however it actually came to me. not a hook, not a thesis.
+- follow the thought where it goes. tangents are allowed if they're real.
+- ground it in something specific, an actual situation or detail, not an abstract example invented to sound good.
+- it's fine to end without a clean landing. don't manufacture a payoff line. if the thought just stops, let it stop.
 
-**type 2 — observational essay** (e.g. "invisible experiments")
-use when the idea is a reframe of something familiar, not a work story.
-1. open with staccato fragments — just the things, no commentary.
-2. the 2-sentence reframe: "[what people usually say about this]. [what i think it actually is]."
-3. explore it: bring in a reference, an analogy, or an adjacent idea. make your own move with it.
-4. land on one clean observation. one line. let it sit.
-
-**in both types:**
-- no thesis in the opening
-- the insight emerges from the material, it is never announced
-- **build toward a renamed distinction.** every post lands on a relationship or category renamed in her own terms: "system vs. conversation," "wellwisher vs. tool," "well-designed uncertainty." this is the most defining move. the whole post should earn one clean distinction by the end.
-- the final line names what was underneath, it doesn't recap what was said. the "that's it. that's the whole job." construction is a signature distillation tic — a short, flat line that closes the loop.
-- **concrete scenes carry the argument.** either a named character (arjun) or a second-person vignette ("you've had the task open for an hour..."). show the scene, don't describe the idea.
+the test for every post: does it sound like me talking, or does it sound like writing? if any part sounds like "writing," it's wrong.
 
 ---
 
@@ -104,20 +81,30 @@ use when the idea is a reframe of something familiar, not a work story.
 
 - **subscribe callout**: optional. only if it fits naturally. never mid-post. the word does the subscribing. if used at all, end of post, one line, lowercase, casual.
 - **section breaks**: use `---` when transitioning between distinct ideas
-- **end note**: always end with a sign-off that is specific to what the post was actually about. follow this pattern from actual posts: "i'm a product designer at [place], currently [specific thing you're working on]. if you're [in this space / building something like this], i'd love to hear [what you're hitting / your version of this]." warm, specific, invites response. not generic.
+- **end note**: a short, genuine sign-off that invites a response. keep it real and specific to the post, not a templated formula. don't reuse the same construction every time.
 
 ---
 
-## avoid
+## avoid — the ai tells
 
-- "in today's world" or any variant as an opener
-- "let's dive in" or "here's what i learned"
-- conclusions that restate what was already said
-- explaining the structure of the post to the reader
-- stating the insight before showing it. earn it first.
-- lesson-framed headings. "lesson: read the room" is wrong. "it never reads the room" is right.
-- wrapping in a neat bow when the reality is still messy. say so.
-- guide voice: "here is how to do this." prefer practitioner voice: "here is what we tried."
+these are the exact patterns that made my published posts feel machine-written. if a draft contains any of these, it's wrong. this is the most important list in this file.
+
+- **the punchy fragment closer.** "that's it. that's the whole job." / "the tap is always yours." short fake-profound one-liners that close a section. never.
+- **the "not X, it's Y" antithesis.** "it's not doing the work for you. it's lowering the activation energy." this construction is the single biggest ai tell. avoid it.
+- **fake-conversational openers.** "here's the thing." / "here's a problem i think about a lot." / "here's where it gets interesting."
+- **the tidy renamed distinction as a payoff.** coining a neat dichotomy ("wellwisher vs. tool," "system vs. conversation") and building to it. real thoughts don't resolve that cleanly.
+- **topic + role/metaphor headings.** "money. the wellwisher who noticed something." never.
+- **the contrarian turn as a formula.** "but here's where most people get it wrong."
+- **triads and list-of-three rhythm.** "download this. set up that. remember to check back in." engineered parallelism.
+- **staccato fragment lists for effect.** "undo. drafts. preview before publish."
+- **the single-line fake-deep paragraph** dropped in for drama.
+- **balanced, bow-tied endings** that resolve everything neatly.
+- **elevated vocabulary** reaching to sound smart.
+- em dashes (already a rule everywhere).
+- "in today's world," "let's dive in," "here's what i learned."
+- explaining the structure of the post to the reader.
+
+the through-line: anything that feels like a clever construction is suspect. humans writing honestly are messier and less resolved than this.
 
 ---
 
@@ -147,6 +134,10 @@ read draft two as a reader encountering this for the first time. ask:
 - where is something unclear? write more, not less, if that's what it takes. never sacrifice depth to be brief.
 - where could two sections be combined without losing what makes each one worth reading? only combine if the depth survives. if combining flattens it, leave them separate.
 - are the internal headings doing their job? generate two to three options for any heading that feels weak, then pick the best one.
+
+### the ai-tell scrub — mandatory, every draft
+
+after draft three, go through the entire "avoid — the ai tells" list line by line and strip anything that matches. this is the most important gate. read the post out loud in your head: does it sound like vidhi talking, or like an essay performing? kill every clever construction. when in doubt, make it plainer and more human, even if it feels less impressive. less impressive but real beats polished but ai, every single time.
 
 ### titles — after draft three only
 
