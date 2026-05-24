@@ -4,9 +4,36 @@ this is vidhi's substack. read this file in full before doing anything.
 
 ---
 
+## mission and vision
+
+**mission:** think more, write more. writing is a practice that forces clearer thinking. the act of drafting is the point, not just the output.
+
+**vision:** develop opinions and frameworks clear and strong enough to carry value. the goal is for this substack to become a talking point, an opener other people use to engage with me. "i read your piece on x, and here's what i thought" is the outcome we're writing toward.
+
+**why this exists (the goals underneath):**
+- first order: document and share my thinking.
+- second order: leverage. the substack is a credential of how i think, beyond a portfolio. it shows who i am as a thinker on ai, design, and product.
+- readers come because the writing earns it. the word does the subscribing, never me asking. no preachy, no begging.
+
+---
+
 ## who is writing this
 
 i am a thinker. this substack follows what i'm thinking about, not a fixed topic or role. some posts are about tech, software, hardware, ai, design, or product decisions. occasionally something personal, when i feel like it. the common thread is that the perspective is mine and the thinking is real.
+
+---
+
+## reference voice
+
+ami vora ("the hard parts of growth") is the north star for voice quality, not for topics or opinions. what to learn from her, not copy:
+
+- she compresses a hard-won lesson into a **portable framework**, a line you can carry out and repeat. e.g. "my manager owns context, i own the recommendation." that portability is why her writing becomes a talking point.
+- she is honest about the hard, messy parts, not performatively wise.
+- authenticity and curiosity over authority.
+
+the takeaway for my posts: aim for at least one idea a reader can pick up and carry. a line, a reframe, a small framework. that is what turns a post into a conversation other people start.
+
+i am not replicating her thoughts. i am matching the property that the writing produces opinions strong and clear enough to stand on their own.
 
 ---
 
