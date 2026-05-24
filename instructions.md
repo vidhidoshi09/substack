@@ -34,6 +34,8 @@ i am a thinker. this substack follows what i'm thinking about, not a fixed topic
 
 **"invisible experiments" (jan 2026)** — observational essay mode. opens with staccato fragments. 2-sentence reframe. ends on a clean single observation that's quotable but never forced.
 
+**"what if your devices just... handled it?" (apr 2026)** — hybrid. opens with a problem she thinks about, brings in an external concept (golden krishna's "back pocket apps"), grounds it in her own work, then the contrarian turn ("here's where the conversation gets it wrong"), then a run of second-person vignettes, builds to a renamed distinction ("wellwisher vs. tool"). heavy use of "not X, it's Y."
+
 **do NOT reference the aug 2025 post** — earlier voice, not fully formed yet. capitalized, more tutorial-ish.
 
 ami vora is a loose background reference for honesty and authenticity over authority. nothing more.
@@ -52,7 +54,9 @@ ami vora is a loose background reference for honesty and authenticity over autho
 **core moves (from actual posts):**
 - **show first, name after.** don't state the concept then illustrate it. let the story run, then name what it was. "this is the room the agent never reads." — comes *after* showing arjun being ignored, not before.
 - **the 2-sentence reframe.** "[common understanding]. [my actual read of it]." e.g. "they are often described as safety features. i do not think that is accurate." use this when reframing something familiar.
-- **"here's the thing."** — a setup phrase for when the actual insight is about to land. use sparingly.
+- **the "not X, it's Y" construction.** define what something is by first saying what it isn't. "it's not doing the work for you. it's lowering the activation energy." this is one of her most frequent moves. use it to draw a precise distinction.
+- **the contrarian turn.** state the common view, then break from it: "but here's where i think most of the conversation around X gets it wrong." this is how an original position gets earned, not asserted.
+- **"here's the thing." / "here's a problem i think about a lot:"** — setup phrases for when the actual insight is about to land. use sparingly.
 - **practitioner's voice, not guide voice.** "what we tried to do was..." not "here is how to do this." first-person, trying things, still uncertain. the reader is alongside, not below.
 
 ---
@@ -60,7 +64,7 @@ ami vora is a loose background reference for honesty and authenticity over autho
 ## format
 
 - no title case anywhere, including headings
-- headings are lowercase. when used, they name the **problem behavior or the thing**, not the lesson. "it never reads the room" not "lesson: read the room."
+- headings are lowercase. when used, they name the **problem behavior or the thing**, not the lesson. "it never reads the room" not "lesson: read the room." headings can also pair a topic with the role it plays: "money. the wellwisher who noticed something in your account."
 - dialogue or quoted speech goes on its own line, not inline
 - short paragraphs. three to four sentences max before a break
 - no bullet points unless the content is genuinely list-like
@@ -90,7 +94,9 @@ use when the idea is a reframe of something familiar, not a work story.
 **in both types:**
 - no thesis in the opening
 - the insight emerges from the material, it is never announced
-- the final line names what was underneath, it doesn't recap what was said
+- **build toward a renamed distinction.** every post lands on a relationship or category renamed in her own terms: "system vs. conversation," "wellwisher vs. tool," "well-designed uncertainty." this is the most defining move. the whole post should earn one clean distinction by the end.
+- the final line names what was underneath, it doesn't recap what was said. the "that's it. that's the whole job." construction is a signature distillation tic — a short, flat line that closes the loop.
+- **concrete scenes carry the argument.** either a named character (arjun) or a second-person vignette ("you've had the task open for an hour..."). show the scene, don't describe the idea.
 
 ---
 
