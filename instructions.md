@@ -71,7 +71,20 @@ the posts on my substack were heavily written by ai. i spent hours trying to mak
 
 ---
 
-## post structure
+## the 80/20 rule for posts
+
+the best posts are 80% experience and 20% inference.
+
+- **80%** is the diary entry part: what i was doing, what i noticed, what changed, what i'm still figuring out. this is what makes it feel real and human.
+- **20%** is the takeaway: one inference or analogy drawn from that experience. this is what makes it worth reading for someone who isn't me.
+
+the 20% often comes from combining something in the glossary with something in the store. the svg analogy is a good example — it came from thinking about what .md files actually do (stored experience) and what that maps to in a familiar format (svg, from the glossary). when looking for the inference, check both files.
+
+the 20% should feel like it emerged from the experience, not like it was imposed on it. it's a moment of "oh, that's actually what this is" — not a thesis announced at the start.
+
+---
+
+
 
 there is no template. a template is what makes writing feel manufactured.
 
@@ -91,6 +104,7 @@ the test: does it sound like me talking, or does it sound like writing? if any p
 ## substack elements
 
 - **subscribe callout**: optional. only if it fits naturally. never mid-post. the word does the subscribing. if used at all, end of post, one line, lowercase, casual.
+- **references**: if specific tools, articles, or resources genuinely helped shape the thinking in a post, list them at the end after a `---` break. one brief intro line, then plain links. only include things that actually helped — not padding.
 - **section breaks**: use `---` when transitioning between distinct ideas
 - **end note**: a short, genuine sign-off that invites a response. keep it real and specific to the post, not a templated formula. don't reuse the same construction every time.
 

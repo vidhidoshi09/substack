@@ -72,4 +72,18 @@ the second encodes business logic, ux intent, accessibility, and hierarchy — n
 
 added with `/note`. pulled into posts when relevant.
 
+### note #1 — may 24, 2026, 12:45pm IST
+
+**source:** design.md ecosystem (google open source + community)
+**noted:** design.md is google's open-source structured design system format. becoming an industry standard for ai-readable design systems. related tools and writing:
+- https://designmd.app
+- https://github.com/google-labs-code/design.md
+- https://medium.com/design-bootcamp/google-makes-design-md-open-source-on-its-way-to-become-a-industry-standard-16119f2368dd
+- https://medium.com/design-bootcamp/design-md-as-a-standard-1fd1af0fcc33
+- https://youtu.be/ETylJa-iXJ8?si=P9IZ1df2DgKReGjz
+- impeccable.md (vidhi to confirm exact url)
+**might connect to:** the .md file post (idea #1 and #2), any future post about design systems and ai tools
+
+---
+
 <!-- notes appended below this line -->
