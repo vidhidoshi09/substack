@@ -9,8 +9,6 @@ The user's raw thought is: $ARGUMENTS
 3. Look at the last entry in the file. If the last entry's date is different from today, add a day divider before the new idea:
 
 ```
-&nbsp;
-
 ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
 ## <month day, year>
@@ -24,7 +22,8 @@ If the last entry is from the same day, just continue under the existing day hea
 ```
 ### idea #<N> — <hh:mm am/pm>
 
-**raw thought:** <the user's input, lightly cleaned up but not rewritten>
+**raw thought:**
+<preserved thought — see rules below>
 
 **seed angle:** <a single sharp angle or hook that this idea could become>
 
@@ -33,6 +32,17 @@ If the last entry is from the same day, just continue under the existing day hea
 
 Where `<N>` is the next sequential number based on all existing entries.
 
+## rules for preserving the raw thought
+
+these are strict. follow them exactly:
+
+- **keep the original length.** do not compress, summarize, or cut. if the user wrote 10 sentences, save 10 sentences.
+- **keep the structure the user used.** if they wrote in pointers or separate paragraphs, keep that. if it was a stream, keep it as a stream.
+- **no em dashes.** ever. replace any with a comma, a period, or just remove them. never use " — ".
+- **no rewriting.** fix only typos and broken speech-to-text artifacts (e.g. "ICPM" → "if PMs", "Rhitik" → "aesthetic"). do not rephrase, tighten, or elevate the language.
+- **lowercase throughout.**
+- **light structure is okay** — if the user's input has clearly separate topics, you may use a blank line between them. do not add headers or bullets unless the user wrote that way.
+
 5. Confirm to the user: "✅ idea #N saved. type `/thought` to see your bank, or `/post <number or topic>` to draft it."
 
-Do NOT generate a full post. Just capture and lightly sharpen the seed.
+Do NOT generate a full post. Just capture and lightly preserve the thought.
