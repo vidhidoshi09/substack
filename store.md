@@ -44,3 +44,17 @@ also i was wondering if claude can have a canvas style interface. to be very hon
 **seed angle:** the designer's job isn't disappearing. it's splitting into two things: setting up the system once, and knowing what to ask for next.
 
 ---
+
+### idea #2 — 12:30pm
+
+**raw thought:**
+
+what svg is to icons is what a .md file is to design systems.
+
+svg stores an icon in a portable, machine-readable, human-readable format. you pass it anywhere and it renders. a .md file can do the same thing for a design system.
+
+once i have a strong .md file, everything else is thinking and patterns. if i tell the system that every time there's a toast it should come from the top, that's a pattern. and once those patterns are in place, what's left is just the idea. so if i combine thinking plus a few good wireframes, everything else is just the .md file. and i don't think you need to reinvent the .md file a lot. if you have a strong one, everything else is literally ideas.
+
+**seed angle:** the .md file doesn't describe a design system the way documentation does. it IS the design system. that's the shift.
+
+---

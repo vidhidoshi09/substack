@@ -23,8 +23,11 @@ how tokens combine into actual ui pieces. button, mic button, nav bar, input, ch
 atomic design equivalent: *molecules and organisms*.
 
 **layer 3 — patterns**
-how components are used and where. not abstract "thinking" but specific decisions: a session screen always has a nav bar, two speech areas, a mic button. the designer defines this. the tool can't invent it.
+how components are used and where. not abstract "thinking" but specific decisions: a session screen always has a nav bar, two speech areas, a mic button. toast enters from top. destructive actions need confirmation. mobile CTAs stay thumb-accessible. the designer defines this. the tool can't invent it.
 atomic design equivalent: *templates*.
+
+**layer 4 — product thinking**
+the actual hard part. workflow sequencing, hierarchy, cognitive load, edge cases, business logic, emotional pacing, user trust. this layer doesn't live in any .md file. it's what you bring.
 
 ---
 
@@ -46,6 +49,22 @@ a framework for building design systems from smallest to largest: atoms → mole
 
 ### system ui
 the native design language of a phone's operating system (iOS, android). using system ui means building on apple or material design's base components rather than designing from scratch. a growing number of apps are choosing this as the foundation and adding only their distinct layer (typography, color, illustration) on top.
+
+---
+
+### svg analogy
+"what svg is to icons is what a .md file is to design systems."
+svg stores a visual asset in portable, machine-readable, human-readable form — you pass it anywhere and it renders. a .md design system file does the same for a design system. it doesn't document the system. it IS the system.
+
+---
+
+### good rule vs bad rule (from vidhi's notes)
+a .md file is only as useful as the quality of rules inside it.
+
+bad rule: "use orange for CTAs."
+good rule: "use orange-500 only for primary monetizable actions. never more than one primary CTA per viewport. disabled opacity = 40%. min mobile height = 48px. destructive actions cannot share orange styling."
+
+the second encodes business logic, ux intent, accessibility, and hierarchy — not just a visual choice. this is the work that moves into the .md file.
 
 ---
 
