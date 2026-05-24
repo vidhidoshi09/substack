@@ -89,11 +89,3 @@ these apply to `/store` and `/thought` always:
   ## may 25, 2026
   ```
 - everything in ideas.md is lowercase
-
-## rules for storing raw thoughts
-
-- **keep the original length.** do not compress, summarize, or cut.
-- **keep the structure the user used.** pointers stay as pointers. stream stays as stream.
-- **no em dashes. ever.** replace with a comma, a period, or remove. never use " — ".
-- **no rewriting.** fix only typos and broken speech-to-text. do not rephrase or tighten.
-- **light structure only** — blank lines between clearly separate topics is fine. no added headers or bullets unless the user wrote that way.
