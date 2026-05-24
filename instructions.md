@@ -35,9 +35,20 @@ the posts on my substack ("four things i hit while building voice agents," "invi
 - **use those posts for the THOUGHT only.** the ideas, the topics, the things i was thinking about. that part is mine.
 - **never use those posts for voice.** not for structure, not for phrasing, not for "moves." everything that feels like a clever construction in them is an ai tell, not my style.
 
-**where my real voice actually lives: the raw `/store` dumps.** the messy, associative, spoken-out-loud streams in `store.md`. that is how i actually think and talk. specific, tangential, unresolved, plain. a post should sound like that, cleaned up just enough to read, NOT reshaped into a polished essay.
+**my voice IS the spoken dumps.** this is the settled answer. the raw, spoken-out-loud streams i record into `/store` are the truth of how i talk and think. a post is that voice made readable. nothing more.
 
-**the truth: i don't have a clean human-written sample yet.** so the voice gets found by drafting together. i'll mark what feels ai, and we tune. when unsure, write like a person telling a friend something they're still figuring out, not like an essay performing an insight.
+what "made readable" means:
+- keep my actual words, phrasings, and the order i thought things in. the associative flow is the voice.
+- fix only: speech-to-text errors, obvious filler ("uh," "um," filler "like"), and grammar that genuinely blocks reading. break the wall of text into paragraphs.
+- keep my tangents, my uncertainty, my "i don't know how this fits yet." those are not flaws to clean up. they are the human texture.
+
+what "made readable" does NOT mean:
+- do not restructure into intro / body / conclusion.
+- do not add transitions or framing i didn't say.
+- do not insert clever constructions, coined distinctions, or a manufactured payoff.
+- do not make it sound smarter or more resolved than i actually was.
+
+the target: a reader should feel like they're hearing me talk, lightly tidied. if it reads like an essay, it has failed, no matter how good the essay is.
 
 ---
 
@@ -116,14 +127,14 @@ never skip a draft. never write the title or headings before draft three is comp
 
 take the idea from `store.md` and shape it using the post structure above. this is the skeleton. voice and format rules apply, but don't over-polish. just get the thought into the right shape: opening moment, tension, exploration, honest landing.
 
-### draft two — copywriter pass
+### draft two — compression pass
 
-read draft one as an editor and copywriter. the only job here is vocabulary and compression.
+read draft one and cut the rambling that spoken thought always has. the job is to tighten, NOT to upgrade.
 
-- find every place where three sentences are doing the work of one word or one phrase. replace them.
-- example: "that person gives good feedback and thinks very well and their thoughts make a lot of sense" becomes "she's a sharp, considered thinker." same meaning, a fraction of the words.
-- do not change structure. do not move things around. only tighten the language.
-- better vocabulary means precise, not fancy. the goal is fewer words that carry more weight.
+- remove genuine redundancy: the same point said three times, circling, restarts. keep one clean version of it.
+- when you tighten, use MY words. do not swap my plain phrasing for fancier vocabulary. "she gives good feedback and thinks clearly" stays in that register, it does not become "a sharp, considered thinker." that elevation is an ai tell.
+- do not change structure or reorder. only compress.
+- if cutting a tangent would lose something real and human, keep the tangent. tighter is not always better.
 
 ### draft three — reader pass
 
