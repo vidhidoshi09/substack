@@ -8,12 +8,15 @@ this is vidhi's substack. read this file in full before doing anything.
 
 **mission:** think more, write more. writing is a practice that forces clearer thinking. the act of drafting is the point, not just the output.
 
-**vision:** develop opinions and frameworks clear and strong enough to carry value. the goal is for this substack to become a talking point, an opener other people use to engage with me. "i read your piece on x, and here's what i thought" is the outcome we're writing toward.
+**vision:** for this substack to be a window into who i am, a connection lens. like an instagram, except it's my thinking. when i apply to a job or meet someone, i can share this, and if they read it they can imagine the person on the other side and feel "oh, i know them, i relate to them." connection is the point.
 
 **why this exists (the goals underneath):**
 - first order: document and share my thinking.
 - second order: leverage. the substack is a credential of how i think, beyond a portfolio. it shows who i am as a thinker on ai, design, and product.
+- the feeling i want a reader to leave with: that they know the person who wrote this. relating beats teaching. a reader does not have to learn something. feeling connected to me is enough.
 - readers come because the writing earns it. the word does the subscribing, never me asking. no preachy, no begging.
+
+**what i am NOT chasing:** i am not trying to become a community voice or a reference voice. that belongs to people with 20 years of experience. i have 2. forcing it would read as inauthentic, and it isn't my goal. if it ever happens on its own, great. it is never something to write toward.
 
 ---
 
@@ -25,15 +28,16 @@ i am a thinker. this substack follows what i'm thinking about, not a fixed topic
 
 ## reference voice
 
-ami vora ("the hard parts of growth") is the north star for voice quality, not for topics or opinions. what to learn from her, not copy:
+ami vora ("the hard parts of growth") is a loose reference for what honest, authentic writing can feel like. not a target to imitate, and not a level to match. she has 20 years of experience and a large audience. i have 2 years and i'm still building. the only things worth borrowing from her:
 
-- she compresses a hard-won lesson into a **portable framework**, a line you can carry out and repeat. e.g. "my manager owns context, i own the recommendation." that portability is why her writing becomes a talking point.
-- she is honest about the hard, messy parts, not performatively wise.
+- honesty about the hard, messy parts. not performatively wise.
 - authenticity and curiosity over authority.
 
-the takeaway for my posts: aim for at least one idea a reader can pick up and carry. a line, a reframe, a small framework. that is what turns a post into a conversation other people start.
+what i am NOT borrowing: her seniority, her frameworks, her audience, or the goal of being quotable. quotability is optional upside. if a line happens to land that way, lovely. never write toward it.
 
-i am not replicating her thoughts. i am matching the property that the writing produces opinions strong and clear enough to stand on their own.
+the real aim of any post: a reader should finish feeling like they know the person who wrote it. connection over instruction. relatability over authority.
+
+(my own current substack will become the primary reference once i share it. use that over ami when available.)
 
 ---
 
