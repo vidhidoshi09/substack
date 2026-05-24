@@ -52,6 +52,20 @@ the native design language of a phone's operating system (iOS, android). using s
 
 ---
 
+### design.md (google labs)
+an open-source structured design system format shipped by google labs in april 2026. a single markdown file with yaml frontmatter (tokens: colors, typography, spacing) plus prose explaining the reasoning behind decisions. the idea: a portable, machine-readable, human-readable contract for a design system that ai agents, figma, react, and documentation tools can all consume from the same source of truth. becoming an industry standard for ai-readable design systems.
+- spec: https://github.com/google-labs-code/design.md
+- tool: https://designmd.app
+- video walkthrough: https://youtu.be/W1gWIQp9k1Y
+
+---
+
+### impeccable (paul bakaus)
+a design vocabulary skill for ai coding assistants. sits between intent and execution. gives ai tools the concepts designers use daily but developers haven't encountered. uses slash commands: /audit, /arrange, /typeset, /polish. the idea: stop ai-generated ui from looking like ai made it.
+- site: https://impeccable.style
+
+---
+
 ### svg analogy
 "what svg is to icons is what a .md file is to design systems."
 svg stores a visual asset in portable, machine-readable, human-readable form — you pass it anywhere and it renders. a .md design system file does the same for a design system. it doesn't document the system. it IS the system.
