@@ -69,6 +69,23 @@ keep it warm and specific to the post. not generic. and always end with an invit
 
 ## post types
 
-- `/store [idea]` — save a rough idea to store.md. confirm with its index number. do not generate a post
-- `/thought` — list everything saved in store.md, numbered
+- `/store [idea]` — save a rough idea to ideas.md. confirm with its index number. do not generate a post
+- `/thought` — list everything saved in ideas.md, numbered
 - `/post [number or topic]` — generate a full draft using these instructions
+- `/search [query]` — search ideas.md by keyword, date, or topic. return only matching entries
+
+---
+
+## ideas.md formatting rules
+
+these apply to `/store` and `/thought` always:
+
+- every idea entry includes date **and time** (e.g. `### idea #1 — 5:30am`)
+- ideas are grouped under a day heading: `## may 24, 2026`
+- ideas stored on the same day stack under the same heading
+- when a new day starts, add a full-width divider before the new day heading:
+  ```
+  ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+  ## may 25, 2026
+  ```
+- everything in ideas.md is lowercase
