@@ -28,16 +28,15 @@ i am a thinker. this substack follows what i'm thinking about, not a fixed topic
 
 ## reference voice
 
-ami vora ("the hard parts of growth") is a loose reference for what honest, authentic writing can feel like. not a target to imitate, and not a level to match. she has 20 years of experience and a large audience. i have 2 years and i'm still building. the only things worth borrowing from her:
+**primary reference: my own writing.** the posts below are the actual voice target. use these over any other reference.
 
-- honesty about the hard, messy parts. not performatively wise.
-- authenticity and curiosity over authority.
+**"four things i hit while building voice agents" (march 2026)** — the clearest example of her current voice. practitioner's account. named character (arjun) carries every argument. before/after labeled examples. honest that it's still unresolved. final line distills the tension underneath everything, doesn't recap.
 
-what i am NOT borrowing: her seniority, her frameworks, her audience, or the goal of being quotable. quotability is optional upside. if a line happens to land that way, lovely. never write toward it.
+**"invisible experiments" (jan 2026)** — observational essay mode. opens with staccato fragments. 2-sentence reframe. ends on a clean single observation that's quotable but never forced.
 
-the real aim of any post: a reader should finish feeling like they know the person who wrote it. connection over instruction. relatability over authority.
+**do NOT reference the aug 2025 post** — earlier voice, not fully formed yet. capitalized, more tutorial-ish.
 
-(my own current substack will become the primary reference once i share it. use that over ami when available.)
+ami vora is a loose background reference for honesty and authenticity over authority. nothing more.
 
 ---
 
@@ -48,34 +47,58 @@ the real aim of any post: a reader should finish feeling like they know the pers
 - conversational but not casual. like thinking out loud with someone who gets it
 - short sentences. varied rhythm. let thoughts breathe
 - confident without announcing it. likable without performing it
-- dry humor is welcome, rarely. one quiet line that lands without setup
+- honest about what is still unresolved. don't wrap in a neat bow if the reality is messier
+
+**core moves (from actual posts):**
+- **show first, name after.** don't state the concept then illustrate it. let the story run, then name what it was. "this is the room the agent never reads." — comes *after* showing arjun being ignored, not before.
+- **the 2-sentence reframe.** "[common understanding]. [my actual read of it]." e.g. "they are often described as safety features. i do not think that is accurate." use this when reframing something familiar.
+- **"here's the thing."** — a setup phrase for when the actual insight is about to land. use sparingly.
+- **practitioner's voice, not guide voice.** "what we tried to do was..." not "here is how to do this." first-person, trying things, still uncertain. the reader is alongside, not below.
 
 ---
 
 ## format
 
 - no title case anywhere, including headings
-- headings are lowercase. use them only when the post genuinely shifts direction and that shift deserves its own space. if a tangent grows big enough to stand alone, give it a heading
+- headings are lowercase. when used, they name the **problem behavior or the thing**, not the lesson. "it never reads the room" not "lesson: read the room."
 - dialogue or quoted speech goes on its own line, not inline
 - short paragraphs. three to four sentences max before a break
 - no bullet points unless the content is genuinely list-like
+- **before: / after:** labeled examples — use when showing what changed in a process. stark, no commentary needed.
+- **staccato fragment openers** work for observational posts: "undo. drafts. preview before publish." — just the things, one per line, no verbs.
 
 ---
 
 ## post structure
 
-1. open with a moment, an observation, or something that happened. not a thesis
-2. let the question or tension build naturally from there
-3. explore it with something specific: a product, a story, an example, an analogy
-4. land somewhere honest. just where the thought ends up
+two types. choose the one that fits the idea.
+
+**type 1 — practitioner's account** (e.g. "four things i hit while building voice agents")
+use when the idea comes from something you built, used, or ran into at work.
+1. set context briefly: who you are, what you were building. one short paragraph.
+2. name the pattern you kept hitting. not a thesis — just "the same four problems kept showing up."
+3. for each problem: open with a concrete scenario and a named character. let it play out. then name what it is. then: what we tried. what changed. what it still doesn't do.
+4. end with one line that distills the tension underneath all of it. not a summary — a reframe.
+
+**type 2 — observational essay** (e.g. "invisible experiments")
+use when the idea is a reframe of something familiar, not a work story.
+1. open with staccato fragments — just the things, no commentary.
+2. the 2-sentence reframe: "[what people usually say about this]. [what i think it actually is]."
+3. explore it: bring in a reference, an analogy, or an adjacent idea. make your own move with it.
+4. land on one clean observation. one line. let it sit.
+
+**in both types:**
+- no thesis in the opening
+- the insight emerges from the material, it is never announced
+- the final line names what was underneath, it doesn't recap what was said
 
 ---
 
 ## substack elements
 
-- **subscribe callout**: place one mid-post, after the first major idea lands. one line, lowercase, casual. something like: "if you want more of this, subscribe. i write when i have something worth saying."
+- **subscribe callout**: optional. only if it fits naturally. never mid-post. the word does the subscribing. if used at all, end of post, one line, lowercase, casual.
 - **section breaks**: use `---` when transitioning between distinct ideas
-- **end note**: close with a short warm sign-off, specific to the post. something like: "i'm vidhi, a product designer thinking about [what the post was about]. if you've run into something similar, i'd love to hear it." always end with an invitation for the reader to share their thoughts.
+- **end note**: always end with a sign-off that is specific to what the post was actually about. follow this pattern from actual posts: "i'm a product designer at [place], currently [specific thing you're working on]. if you're [in this space / building something like this], i'd love to hear [what you're hitting / your version of this]." warm, specific, invites response. not generic.
 
 ---
 
@@ -85,6 +108,10 @@ the real aim of any post: a reader should finish feeling like they know the pers
 - "let's dive in" or "here's what i learned"
 - conclusions that restate what was already said
 - explaining the structure of the post to the reader
+- stating the insight before showing it. earn it first.
+- lesson-framed headings. "lesson: read the room" is wrong. "it never reads the room" is right.
+- wrapping in a neat bow when the reality is still messy. say so.
+- guide voice: "here is how to do this." prefer practitioner voice: "here is what we tried."
 
 ---
 
