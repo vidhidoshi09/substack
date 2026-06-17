@@ -58,3 +58,16 @@ once i have a strong .md file, everything else is thinking and patterns. if i te
 **seed angle:** the .md file doesn't describe a design system the way documentation does. it IS the design system. that's the shift.
 
 ---
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+## june 17, 2026
+
+### idea #3 — 10:00am
+
+**raw thought:**
+
+today i ate like a man. i used to always watch my classmates eat and it was different. almost like if they wouldn't eat that piece of bread, someone else would eat it faster, bigger bite, and before you know it they are done eating. as a woman i always felt i need to eat better, more carefully. now i don't care anymore. i eat so quickly that before you actually breathe, you are done. and now that i have eaten like that, i don't know what to feel about it. it feels great. it feels yeah sure. maybe i don't care so much anymore. and i don't know why i have started to eat like that suddenly, but it is in one way fun and then it makes me think about it at a deeper level. i did ask myself what do i feel and why do i do that. a lot of times it is coming from a scarcity mindset. and it is funny because it has only got better as i have grown older. in no way is there any scarcity anymore, and there was never a scarcity to start with. but if at all there was any, it has only got lesser. so it made me wonder why i reached this mindset. i also noticed i can't share my food anymore, in a way that i do feel like i need more food than i need. sometimes with friends or at work i end up having to share every time but in the back of my mind i am still calculating if there is enough food left for me. i don't think i operated from that mindset in school because i shared food in school as well, or maybe i never realised that is how i am thinking. i was always open to sharing food in school and i am still open to sharing food at the office as well. it is just that now i feel like i end up feeling that i don't have enough to share. and to cope with that i actively pack more food so that i am able to share it with people, to a point that sometimes it is excess food, but i do end up finishing most of it. so it is interesting how the mind works and how a lot of things happen.
+
+**seed angle:** scarcity mindset doesn't need a real shortage to run. it builds its own logic quietly, and you only notice it when you catch yourself eating fast in a room where there's plenty of food.
+
+---
